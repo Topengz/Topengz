@@ -7,7 +7,7 @@
 <center>
 
 <h1><font color="red" face=Orbitron>SECRET ID<h2></font>
-<img src=https://lh3.googleusercontent.com/-bf_x-yTTHjQ/Ts32HIlpUJI/AAAAAAAAAgQ/WctrlVSdVXI/s800/bluematrix.gif height=700 width=1000>
+<img src=https://lh3.googleusercontent.com/-bf_x-yTTHjQ/Ts32HIlpUJI/AAAAAAAAAgQ/WctrlVSdVXI/s800/bluematrix.gif height=300 width=1000>
 </center>
 <body onload="init()"></body>
 <body>
