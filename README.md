@@ -6,7 +6,7 @@
 <body bgcolor="#000000" background =https://lh6.googleusercontent.com/-oIKDL5K_Jus/Ts32BmE64MI/AAAAAAAAAgI/QncRScTidN8/s800/black_red_matrix.gif width=850px ><div class='CenterDiv'>
 <center>
 
-<h1><font color="red" face=Orbitron>SECRET ID<h2></font>
+<font color="red" face=Orbitron>Bila Terjatuh Cobalah Pungut Sesuatu</font>
 <img src=https://lh3.googleusercontent.com/-bf_x-yTTHjQ/Ts32HIlpUJI/AAAAAAAAAgQ/WctrlVSdVXI/s800/bluematrix.gif height=300 width=1000>
 </center>
 <body onload="init()"></body>
