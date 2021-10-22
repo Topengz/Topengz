@@ -10,10 +10,9 @@
 <img src=https://lh3.googleusercontent.com/-bf_x-yTTHjQ/Ts32HIlpUJI/AAAAAAAAAgQ/WctrlVSdVXI/s800/bluematrix.gif height=300 width=1000>
 <br>
 <br>
-<audio controls>
-	<source src="Assalamualai.mp3" type="audio/mpeg">
-	
-</audio>
+<video controls>
+	<source src="https://youtu.be/hk4sNgG6k6Q" autoplay="1" type="video/format video" height=100 width=1000>
+</video>
 
 </center>
 </body>
